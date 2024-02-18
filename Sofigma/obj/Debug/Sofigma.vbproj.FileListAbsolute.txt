@@ -1,0 +1,11 @@
+E:\MyPro\Sofigma\Sofigma\bin\Debug\Sofigma.exe.config
+E:\MyPro\Sofigma\Sofigma\obj\Debug\Sofigma.vbprojResolveAssemblyReference.cache
+E:\MyPro\Sofigma\Sofigma\obj\Debug\Sofigma.Resources.resources
+E:\MyPro\Sofigma\Sofigma\obj\Debug\Sofigma.Sofigma.resources
+E:\MyPro\Sofigma\Sofigma\obj\Debug\Sofigma.vbproj.GenerateResource.Cache
+E:\MyPro\Sofigma\Sofigma\obj\Debug\Sofigma.xml
+E:\MyPro\Sofigma\Sofigma\bin\Debug\Sofigma.exe
+E:\MyPro\Sofigma\Sofigma\bin\Debug\Sofigma.pdb
+E:\MyPro\Sofigma\Sofigma\bin\Debug\Sofigma.xml
+E:\MyPro\Sofigma\Sofigma\obj\Debug\Sofigma.exe
+E:\MyPro\Sofigma\Sofigma\obj\Debug\Sofigma.pdb
